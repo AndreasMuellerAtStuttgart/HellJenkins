@@ -11,6 +11,7 @@ public class HellJenkinsApplication implements CommandLineRunner {
         System.out.println("Hello World!");
         System.out.println("Hello Jenkins!");
         System.out.println("Hello Docker!");
+        System.out.println("Hello Kubernetes!");
     }
 
     public static void main(String[] args) {
