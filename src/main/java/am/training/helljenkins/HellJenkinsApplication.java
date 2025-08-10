@@ -10,6 +10,7 @@ public class HellJenkinsApplication implements CommandLineRunner {
     public void run(String... args) throws Exception {
         System.out.println("Hello World!");
         System.out.println("Hello Jenkins!");
+        System.out.println("Hello Docker!");
     }
 
     public static void main(String[] args) {
